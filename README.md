@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @elemonic
-- 👀 I’m interested in Perl.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @elemonic
+# My Accounts
+- twitter: @elemonic
+- steam: elemo
 
 <!---
 elemonic/elemonic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
