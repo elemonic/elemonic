@@ -1,12 +1,12 @@
 👋 Hi, I’m @elemonic ... !!!
 # My Accounts
-- Twitter: [@elemonic](https://twitter.com/elemonic)
+- Twitter(X): [@elemonic](https://twitter.com/elemonic)
 - Telegram: [@elemonic](https://t.me/elemonic)
 - Steam: [elemo](https://steamcommunity.com/id/elemo/)
-- Discord: elemo#6646
+- Discord: elemonic
 
-I am Japanese, so even if I use strange Japanese, I can easily recognize what is wrong.  
-If you have any questions about the Japanese language, please ask me.
+I’m a native of Japan, born and raised there, so I’m highly proficient in Japanese and can instantly spot any awkward phrasing.  
+If you have any questions about Japanese, feel free to ask!
 
 <!---
 elemonic/elemonic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
